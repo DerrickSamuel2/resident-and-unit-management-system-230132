@@ -27,6 +27,7 @@ psycopg==3.2.6
 psycopg-binary==3.2.6
 pycodestyle==2.13.0
 pydantic==2.11.3
+pydantic-settings==2.2.1
 pydantic_core==2.33.1
 pyflakes==3.3.2
 Pygments==2.19.1
